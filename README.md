@@ -20,7 +20,7 @@
  
 <b><ins>Implementation</b></ins>
 
- FortressApp will run on ASP.NET CORE in C# leveraging the RESTFul API interface, JavaScript, and a database management system like SQL. It will use design patterns such as DAO, MVC, and dependency injection.
+ FortressApp will run on ASP.NET CORE in C# leveraging the RESTFul API interface, JavaScript, and a database management system like SQL server. It will use design patterns such as DAO, MVC, and dependency injection.
  
  <b><ins>Time Sheet</b></ins>
 
@@ -31,7 +31,7 @@
     date
     class
     student/staff ID
-    created by, created on(day)- baackend audit (not vidible to user)
+    created by, created on(day)- baackend audit (not visable to user)
     
  <b><ins>Assessment</b></ins>
 
