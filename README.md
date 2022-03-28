@@ -14,9 +14,30 @@
    
 ## Fortress App 
 
+<ins>Function </ins>
+
+ Fortress App will allow staff to assess student progress every day for each subject they are teaching. It will aso serve as a time sheet where staff can track their hours. Students will also be able to track their time in the time sheet portion and will also be able to track their understanding of all sujects they are learning for the day and their level of interest. 
+ 
 <ins>Implementation</ins>
 
  FortressApp will run on ASP.NET CORE in C# leveraging the RESTFul API interface, JavaScript, and a database management system like SQL. It will use design patterns such as DAO, MVC, and dependency injection.
+ 
+ <ins>Time Sheet</ins>
+
+ The timesheet will have these main feilds:
+ 
+    start time
+    end time
+    date
+    class
+    student/staff ID
+    created by, created on(day)- baackend audit (not vidible to user)
+    
+ <ins>Assessment</ins>
+
+ There will be two sections of the s
+    
+ 
  
      
         
